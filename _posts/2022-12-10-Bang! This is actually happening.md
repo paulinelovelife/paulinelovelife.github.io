@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-# Bang! This is actually happening
 
 *昨晚研究了一下github+jekyll快速搭建自己的网页，哈哈，基础款的blog有了。*
 
