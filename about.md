@@ -10,5 +10,9 @@ Hello friends, this is Pauline.
 
 **- Blog started from 09/Dec./2022**
 
-Bucket list: build a set of glass wall shelves to preserve all my journals
+****
+
+Bucket list: to build a set of glass wall shelves to preserve all my journals.
+
+Fav Motto atm: You look happier since you stopped being subtle about who you are and what you want.
 
