@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Trip to Mt.Jade and back"
+title: "A Trip to Mt. Jade and back"
 ---
 
 *登顶玉山3年了，仍能记起当初跟队友发的誓——我再也不爬了。*
