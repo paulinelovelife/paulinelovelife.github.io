@@ -14,5 +14,5 @@ Hello friends, this is Pauline.
 
 Bucket list: to build a set of glass wall shelves to preserve all my journals.
 
-Fav Motto atm: You look happier since you stopped being subtle about who you are and what you want.
+Favorite motto at the moment: You look happier since you stopped being subtle about who you are and what you want.
 
