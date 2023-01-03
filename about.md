@@ -19,7 +19,7 @@ Favorite motto at the moment: You look happier since you stopped being subtle ab
 
 ****
 
-Confluence | ~~Your Remote-Friendly Team Workspace~~
+**Confluence** - ~~Your Remote-Friendly Team Workspace~~
 
 *noun*  [ C ]   UK  /ˈkɒn.fluː.əns/   US  /ˈkɑːn.fluː.əns/
 
