@@ -8,7 +8,7 @@ Hello friends, this is Pauline.
 
 **- Journaling since 2013**
 
-**- Blog started from 09/Dec./2022**
+**- Blog started from 09-Dec-2022**
 
 ****
 
@@ -16,3 +16,11 @@ Bucket list: to build a set of glass wall shelves to preserve all my journals.
 
 Favorite motto at the moment: You look happier since you stopped being subtle about who you are and what you want.
 
+
+****
+
+Confluence | ~~Your Remote-Friendly Team Workspace~~
+
+*noun*  [ C ]   UK  /ˈkɒn.fluː.əns/   US  /ˈkɑːn.fluː.əns/
+
+**the place where two rivers flow together and become one larger river**
