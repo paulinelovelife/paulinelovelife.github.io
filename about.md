@@ -19,8 +19,8 @@ Favorite motto at the moment: You look happier since you stopped being subtle ab
 
 ****
 
-**Confluence** - ~~Your Remote-Friendly Team Workspace~~
+**Confluence** 
 
 *noun*  [ C ]   UK  /ˈkɒn.fluː.əns/   US  /ˈkɑːn.fluː.əns/
 
-**the place where two rivers flow together and become one larger river**
+**the place where two rivers flow together and become one larger river** - Not your remote-friendly team workspace. 😌
