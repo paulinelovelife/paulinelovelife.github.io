@@ -34,7 +34,7 @@ title: "LinkedIn & How to avoid getting banned"
 
     ○ 限制解除后该账号会被视为一个新开的账号，处于被重点观察的状态。不能马上又再大量加人，慢慢来，好好表现，用心经营。
 
-    ○ 检查时候使用自动化工具，remove access, log out, delete account
+    ○ 检查是否使用自动化工具，remove access, log out, delete account
 
     ○ 可以联系领英客服申诉，反馈你的使用行为和询问如何恢复。就不要再提工具的事，不管你用或没用😅。重点是：简单解释一下，然后向前看，礼貌表达希望账号被接触限制。联系客服可能会被要求ID，护照或驾照——能证明你是个人的文件。
 
@@ -64,7 +64,7 @@ title: "LinkedIn & How to avoid getting banned"
 
 感谢小伙伴提供的模板，直接用中文写的：
 
-    “Hello Linkedin团队，我中间是因为使用了vpn软件代理，所以显示不同IP地址。但是并没有分享账号或者使用其他第三方工具。<br />请核实并帮助尽快恢复正常使用！谢谢”    
+    “Hello Linkedin团队，我中间是因为使用了vpn软件代理，所以显示不同IP地址。但是并没有分享账号或者使用其他第三方工具。请核实并帮助尽快恢复正常使用！谢谢”    
 
 ********
 
